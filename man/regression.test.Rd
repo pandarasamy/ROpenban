@@ -2,7 +2,7 @@
 \alias{regression.test}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+Regression glm - test
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
